@@ -1,0 +1,6 @@
+[submodule "arduino/lib/HttpClient"]
+	path = arduino/lib/HttpClient
+	url = https://github.com/amcewen/HttpClient.git
+[submodule "arduino/lib/Arduino-DHT22"]
+	path = arduino/lib/Arduino-DHT22
+	url = git@github.com:darco/Arduino-DHT22.git
